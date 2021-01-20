@@ -1,0 +1,42 @@
+/********tweleve_noisy************/
+downsample number: 5054
+bilateral: 
+   radius: 0.16
+   iterations: 15
+GPF:
+   radius: 0.11
+   mu: 0.3
+   iterations: 30
+Gap Filling:
+   radius: 0.33
+   iteration: 1
+EAR_Upsampling_1:
+   radius: 0.3
+   Edge Sensitivity: 0
+EAR_Upsampling_2:
+   radius: 0.12
+   Edge Sensitivity: 6
+/********************************/
+
+/********cube_noisy************/
+downsample number: 3539
+bilateral: 
+   radius: 0.1
+   iterations: 10
+GPF:
+   radius: 0.046
+   mu: 0.2
+   iterations: 30
+Gap Filling:
+   radius: 0.138
+   iteration: 1
+EAR_Upsampling_1:
+   radius: 0.3
+   Edge Sensitivity: 0
+EAR_Upsampling_2:
+   radius: 0.06
+   Edge Sensitivity: 6
+/********************************/
+
+
+   
