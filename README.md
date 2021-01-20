@@ -1,5 +1,5 @@
 # GPF: GMM-inspired Feature-preserving Point Set Filtering
-by [Xuequan Lu](http://www.xuequanlu.com/), [Shihao Wu](http://shihaowu.net/), [Honghua Chen](), [Sai-Kit Yeung](https://www.cse.cuhk.edu.hk/~cwfu/), [Wenzhi Chen](http://arc.zju.edu.cn/js/list.htm), and [
+by [Xuequan Lu](http://www.xuequanlu.com/), [Shihao Wu](http://shihaowu.net/), [Honghua Chen](https://github.com/chenhonghua), [Sai-Kit Yeung](http://saikit.org/), [Wenzhi Chen](http://arc.zju.edu.cn/js/list.htm), and [
 ‪Matthias Zwicker‬](https://www.cs.umd.edu/~zwicker/).
 
 ### Introduction
